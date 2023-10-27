@@ -1,16 +1,18 @@
-# flutter_cal
+# Flutter Calendar App
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+A Flutter-based calendar application that provides basic functionality for managing appointments. It allows users to add, remove, and view appointments.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*Add Appointments: Adding new appointments to the calendar
+*Remove Appointments: Delete appointments that are no longer needed
+*View Appointments: Browse and manage appointments
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. git clone remote url
+2. flutter pub get (Download needed dependencies)
+3. flutter run 
