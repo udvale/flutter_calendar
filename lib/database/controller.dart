@@ -1,4 +1,4 @@
 class ApiConstants {
-  static String apiUrl = 'http://127.0.0.1:8000';
+  static String apiUrl = 'https://calendar-backend-41bd5ce6d70f.herokuapp.com';
   static String endPoints = '/create/';
 }
