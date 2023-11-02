@@ -8,11 +8,13 @@ A Flutter-based calendar application that provides basic functionality for manag
 
 ## Features
 
-*Add Appointments: Adding new appointments to the calendar
-*Remove Appointments: Delete appointments that are no longer needed
-*View Appointments: Browse and manage appointments
+- Add Appointments: Adding new appointments to the calendar
+- Remove Appointments: Delete appointments that are no longer needed
+- View Appointments: Browse and manage appointments
 
-## Installation
+## Installation or Viewing 
 1. git clone remote url
 2. flutter pub get (Download needed dependencies)
-3. flutter run 
+3. flutter run
+     or
+https://calendar-booking.netlify.app/
