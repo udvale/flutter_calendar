@@ -13,8 +13,9 @@ A Flutter-based calendar application that provides basic functionality for manag
 - View Appointments: Browse and manage appointments
 
 ## Installation or Viewing 
-1. `git clone remote` url
-2. `flutter pub ge`t (Download needed dependencies)
+=======
+1. `git clone remote <REMOTE_URL>`
+2. `flutter pub get` (Download needed dependencies)
 3. `flutter run`
      or
 https://calendar-booking.netlify.app/
