@@ -16,5 +16,3 @@ A Flutter-based calendar application that provides basic functionality for manag
 1. `git clone remote <REMOTE_URL>`
 2. `flutter pub get` (Download needed dependencies)
 3. `flutter run`
-     or
-https://calendar-booking.netlify.app/
