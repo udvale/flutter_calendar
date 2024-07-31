@@ -1,5 +1,5 @@
 # Flutter Calendar App
-A Flutter-based calendar application that provides basic functionality for managing appointments. It allows users to add, remove, and view appointments.
+A Flutter-based calendar application with FastAPI(Python) backend, that provides basic functionality for managing appointments. It allows users to add, remove, and view appointments.
 
 ## Features
 - Add Appointments: Adding new appointments to the calendar
@@ -10,6 +10,13 @@ A Flutter-based calendar application that provides basic functionality for manag
 https://calendar-booking.netlify.app/
 
 ## Installation or Viewing 
-1. `git clone remote <REMOTE_URL>`
-2. `flutter pub get` (Download needed dependencies)
-3. `flutter run`
+1. Clone Repository: 
+   ```sh
+   git clone https://github.com/udvale/flutter_calendar.git
+2. Install dependencies:
+    ```sh
+    flutter pub get
+3. Start Development Environment
+   ```sh
+   flutter run
+---
