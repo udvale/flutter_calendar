@@ -1,15 +1,25 @@
 # Flutter Calendar App
-A Flutter-based calendar application with FastAPI(Python) backend, that provides basic functionality for managing appointments. It allows users to add, remove, and view appointments.
+The Flutter Calendar App is a full-stack, cross-platform mobile application for managing events, appointments, and schedules. Built with Flutter for the frontend and Python for the backend, it offers a seamless and customizable user experience. The app integrates a MySQL database for efficient data storage and retrieval.
+#### Built With
+- Flutter – A powerful UI toolkit for cross-platform development.
+- Dart – The programming language used for frontend logic.
+- FastAPI – A modern, fast Python web framework for the backend.
+- MySQL – A relational database for managing event and user data.
+- Third-party packages – Additional libraries to extend functionality.
 
 ## Features
-- Add Appointments: Adding new appointments to the calendar
-- Remove Appointments: Delete appointments that are no longer needed
-- View Appointments: Browse and manage appointments
+- Interactive Calendar Views: Switch between month, week, and day views.
+- Event Management: Add, edit, and delete events directly from the app.
+- Customizable UI: Easily adjustable to fit different design preferences.
+- Flutter Integration: Built with Flutter's cross-platform capabilities, the app works efficiently on both iOS and Android.
 
 ## Demo URL
 https://calendar-booking.netlify.app/
 
-## Installation or Viewing 
+## Installation 
+### Prerequisites
+Ensure that you have Flutter and Dart installed on your machine.
+### Setup and Execution 
 1. Clone Repository: 
    ```sh
    git clone https://github.com/udvale/flutter_calendar.git
