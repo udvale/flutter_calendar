@@ -1,11 +1,13 @@
 # Flutter Calendar App
 The Flutter Calendar App is a full-stack, cross-platform mobile application for managing events, appointments, and schedules. Built with Flutter for the frontend and Python for the backend, it offers a seamless and customizable user experience. The app integrates a MySQL database for efficient data storage and retrieval.
+
+<img src="https://github.com/user-attachments/assets/fe1360b1-1f23-46c4-901d-ce8c8a8720db" alt="calendar" width="800"/>
+
 #### Built With
-- Flutter – A powerful UI toolkit for cross-platform development.
-- Dart – The programming language used for frontend logic.
-- FastAPI – A modern, fast Python web framework for the backend.
-- MySQL – A relational database for managing event and user data.
-- Third-party packages – Additional libraries to extend functionality.
+- Flutter 
+- Dart 
+- FastAPI 
+- MySQL 
 
 ## Features
 - Interactive Calendar Views: Switch between month, week, and day views.
